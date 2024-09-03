@@ -1,7 +1,4 @@
-## Hi there 👋
 
-
-**filipesantista/filipesantista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Eu sou o Filipe, tenho 15 anos e sou santista com muito orgulho! Hoje, quero compartilhar com vocês uma história incrível sobre o meu time do coração e uma lenda do futebol.
 
